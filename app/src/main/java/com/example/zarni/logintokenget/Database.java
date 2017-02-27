@@ -17,7 +17,7 @@ import java.util.HashMap;
 
 public class Database extends SQLiteOpenHelper {
 
-    public Database(Context applicationcontext) {
+    public Database(DBConnect applicationcontext) {
         super(applicationcontext,"user.db",null,1);
     }
 
