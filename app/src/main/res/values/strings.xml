@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Logintokenget</string>
+    <string name="promt_spinner1">marthoca</string>
+    <string-array name="spinner1">
+        <item>Employer</item>
+        <item>Employee</item>
+    </string-array>
+</resources>
